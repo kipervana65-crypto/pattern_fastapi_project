@@ -4,3 +4,4 @@ __pycache__/
 .env
 .idea
 alembic/versions/__pycache__
+.venv/
